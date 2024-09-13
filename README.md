@@ -7,4 +7,9 @@
   </a>
 
 *Languages and Tools:*
+<img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands/512/csharp-64.png" alt="C#" width="30" height="30"/>
 <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" alt="Unity" width="30" height="30"/>
+<img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands/512/html5-64.png" alt="HTML" width="30" height="30"/>
+<img src="https://cdn0.iconfinder.com/data/icons/logos-and-brands/512/microsoft_office-64.png" alt="Microsoft Office" width="30" height="30"/>
+
+
