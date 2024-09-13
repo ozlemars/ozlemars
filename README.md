@@ -1,4 +1,4 @@
-## Hi, I'm ÖZLEM ARSLAN
+## Hi, I'm ÖZLEM ARSLAN 👋👩‍💻
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer and Unity Game Developer with a love for creating innovative solutions and engaging experiences. I’m constantly learning and expanding my skills in various areas of technology and development.
 
