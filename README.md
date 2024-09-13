@@ -20,7 +20,7 @@ Welcome to my GitHub profile! As a passionate Unity Game Developer, I aim to cre
   </a>
 
 
-*Languages and Tools:*
+### Languages and Tools:
 <img src="https://cdn0.iconfinder.com/data/icons/programming-1-1/32/Programming_C-4-64.png" alt="C#" width="30" height="30"/>
 <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" alt="Unity" width="30" height="30"/>
 <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-64.png" alt="HTML" width="30" height="30"/>
