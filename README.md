@@ -10,14 +10,15 @@ Welcome to my GitHub profile! As a passionate Unity Game Developer, I aim to cre
 - 🤝 **Volunteer Work**: Actively involved in community service, including roles with Toplum Gönüllüleri and Spor İstanbul, where I contributed to various projects aimed at making a positive impact.
 
 ### Connect with Me
-*[LinkedIn](https://www.linkedin.com/in/ozlem--arslan/)
+
   <a href="https://www.linkedin.com/in/ozlem--arslan/" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png" alt="LinkedIn" width="30" height="30"/>
   </a>
-  *[Email Me](mailto:arslaanozlemm@gmail.com)
+ 
   <a href="mailto:arslaanozlemm@gmail.com">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="Email" width="30" height="30"/>
   </a>
+
 
 *Languages and Tools:*
 <img src="https://cdn0.iconfinder.com/data/icons/programming-1-1/32/Programming_C-4-64.png" alt="C#" width="30" height="30"/>
