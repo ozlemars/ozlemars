@@ -1,12 +1,13 @@
 ## Hi, I'm ÖZLEM ARSLAN 👋👩‍💻
 
-Welcome to my GitHub profile! As a passionate Unity Game Developer, I aim to create innovative solutions and engaging experiences. I continuously learn and expand my skills in technology and software development to achieve the best results in this field
+Welcome to my GitHub profile!
+As an aspiring Full Stack Developer, I aim to create innovative solutions and user-friendly applications. I continuously learn and expand my skills in web development and software engineering to achieve the best results in this field.
 
 ### About Me
 
 - 🎓 **Education**: Graduated from İstanbul Gelişim University with a degree in Management Information Systems.
-- 💼 **Experience**: Worked as an IT Specialist Intern at Archem Diagnostics and have experience in full stack development with a focus on C#, SQL, and Unity.
-- 🚀 **Current Focus**: Building engaging games using Unity and exploring new technologies in web development and game design.
+- 💼 **Experience**: Worked as an IT Specialist Intern at Archem Diagnostics and have experience in full stack development with a focus on C#, SQL Unity.
+- 🚀 **Current Focus**: Enhancing my skills in full-stack development, including C#, .NET, and modern web technologies.
 - 🤝 **Volunteer Work**: Actively involved in community service, including roles with Toplum Gönüllüleri and Spor İstanbul, where I contributed to various projects aimed at making a positive impact.
 
 ### Connect with Me
