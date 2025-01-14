@@ -14,9 +14,16 @@ I'm an **aspiring Full Stack Developer** with a passion for building innovative 
   - Supporting events for social causes.  
   - Motivating marathon runners and assisting in logistics.  
 
-### 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ozlem--arslan/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=gmail&logoColor=red)](mailto:arslaanozlemm@gmail.com)
+### Connect with Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ozlem--arslan/" target="_blank">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="mailto:arslaanozlemm@gmail.com" target="_blank" style="margin-left: 10px;">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="Gmail" width="30" height="30"/>
+  </a>
+</div>
 
 ---
 
@@ -40,5 +47,3 @@ I'm an **aspiring Full Stack Developer** with a passion for building innovative 
 
 ---
 
-### 🔖 Fun Fact
-> "Always learning, always growing!" 🌱
