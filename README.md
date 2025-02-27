@@ -1,18 +1,19 @@
 ## Hi there! 👋 I'm ÖZLEM ARSLAN 👩‍💻
 
 Welcome to my GitHub profile!  
-I'm an **aspiring Full Stack Developer** with a passion for building innovative and user-friendly applications. My goal is to continuously learn and create solutions that make a positive impact.
+I'm an **aspiring Full Stack Developer** passionate about building innovative, scalable, and user-friendly applications. I aim to continuously learn and contribute to the tech community with solutions that make a positive impact.
 
 ### 👩‍🏫 About Me
 - 🎓 **Education**: Management Information Systems graduate from İstanbul Gelişim University.  
 - 💼 **Experience**:  
   - IT Specialist Intern at **Archem Diagnostics**.  
   - Gained experience in **C#, SQL, Unity**, and more.  
-- 🚀 **Current Focus**: Full Stack Development using **C#, .NET, HTML5, CSS, SQL**.  
+- 🚀 **Current Focus**: Full Stack Development using **C#, .NET, HTML5, CSS, SQL**, and **Microservices** architecture.  
 - 💡 **Volunteer Work**: Actively participated in **community service projects** with Toplum Gönüllüleri and Spor İstanbul, such as:  
   - Cleaning coastal areas.  
   - Supporting events for social causes.  
   - Motivating marathon runners and assisting in logistics.  
+- 🔍 **Ongoing Learning**: Currently expanding my knowledge in **microservices architecture, Docker, PostgreSQL**, and **API development**.
 
 ### Connect with Me
 
@@ -23,7 +24,13 @@ I'm an **aspiring Full Stack Developer** with a passion for building innovative 
   <a href="mailto:arslaanozlemm@gmail.com" target="_blank" style="margin-left: 10px;">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="Gmail" width="30" height="30"/>
   </a>
+  <a href="https://medium.com/@ozlemarslan" target="_blank" style="margin-left: 10px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYavdS5ILF9gWk5mQ5tMdoE8y_wtkTuAhJvw&s" alt="Medium" width="30" height="30"/>
+  </a>
 </div>
+
+
+
 
 ---
 
@@ -35,7 +42,10 @@ I'm an **aspiring Full Stack Developer** with a passion for building innovative 
   <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/76-office-64.png" alt="Microsoft Office" width="30" height="30"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="30" height="30"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="30" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="Docker" width="30" height="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="30" height="30"/>
 </p>
+
 
 ---
 
@@ -46,4 +56,3 @@ I'm an **aspiring Full Stack Developer** with a passion for building innovative 
 </p>
 
 ---
-
